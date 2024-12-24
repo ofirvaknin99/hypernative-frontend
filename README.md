@@ -11,7 +11,7 @@ React, TypeScript, Ant Design (Antd), React Router, Axios.
 
 ## Steps to run the project
 
-# create .env file and paste -
+### create .env file and paste -
 
 REACT_APP_VIDEO_API_URL=https://raw.githubusercontent.com/XiteTV/frontend-coding-exercise/main/data/dataset.json
 
